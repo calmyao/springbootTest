@@ -1,5 +1,5 @@
 # springbootTest
-springboot入门
+## springboot入门
 - springboot简化了基于Spring的应用开发,只需要"run"就能创建一个独立的,生产级别的Spring应用,springboot为Spring平台及第三方库提供开箱即用
 的设置（提供默认设置），这样我们就可以简单的开始。多数Spring Boot应用只需要很少的Spring配置。
 - 我们可以使用SpringBoot创建java应用，并使用java –jar 启动它，或者采用传统的war部署方式。
@@ -8,6 +8,16 @@ springboot入门
   * 开箱即用，但通过自己设置参数，即可快速摆脱这种方式。  
   * 提供了一些大型项目中常见的非功能性特性，如内嵌服务器、安全、指标，健康检测、外部化配置等
   * 绝对没有代码生成，也无需 XML 配置。
-# 以下是我复制其他社区的网址
+## 入门详解
+  springboot启动成功后会出现一个spring的标志,如果不需要这个标志我们可以取消
+  
+     ```SpringApplication application = newSpringApplication(Application.class);
+      //取消spring的标志
+      application.setBannerMode(Mode.OFF);
+      application.run(args);
+     ```
+  
+## 以下是我复制其他社区的网址
+
 
   https://github.com/calmyao/springboot-learning-example
