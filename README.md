@@ -8,3 +8,6 @@ springboot入门
   * 开箱即用，但通过自己设置参数，即可快速摆脱这种方式。  
   * 提供了一些大型项目中常见的非功能性特性，如内嵌服务器、安全、指标，健康检测、外部化配置等
   * 绝对没有代码生成，也无需 XML 配置。
+# 以下是我复制别的社区的网址
+
+  https://github.com/calmyao/springboot-learning-example
