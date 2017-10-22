@@ -18,7 +18,8 @@
       
      
  - springboot自动热部署
-  由于Spring Boot应用只是普通的Java应用，所以JVM热交换（hot-swapping）也能开箱即用。不过JVM热交换能替换的字节码有限制，想要更彻底的解决方案可以使用Spring Loaded项目或JRebel。 spring-boot-devtools 模块也支持应用快速重启(restart)。
+ 
+   由于Spring Boot应用只是普通的Java应用，所以JVM热交换（hot-swapping）也能开箱即用。不过JVM热交换能替换的字节码有限制，想要更彻底的解决方案可以使用   Spring Loaded项目或JRebel。 spring-boot-devtools 模块也支持应用快速重启(restart)。
   
 ## 以下是我复制其他社区的网址
 
