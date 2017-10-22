@@ -33,7 +33,7 @@
          =========|_|==============|___/=/_/_/_/
          :: Spring Boot ::        (v1.4.4.RELEASE)
    
-       SpringApplication application = newSpringApplication(Application.class);
+       SpringApplication application = new SpringApplication(Application.class);
        //取消spring的标志
        application.setBannerMode(Mode.OFF);
        application.run(args);
