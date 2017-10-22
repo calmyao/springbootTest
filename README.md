@@ -48,7 +48,4 @@
         <artifactId>spring-boot-devtools</artifactId>
        </dependency>
   
-## 以下是我复制其他社区的网址
-
-
-  https://github.com/calmyao/springboot-learning-example
+欢迎加本人QQ(1209211943),来讨论java相关技术学习
