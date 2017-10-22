@@ -11,11 +11,11 @@
 ## 入门详解
   springboot启动成功后会出现一个spring的标志,如果不需要这个标志我们可以取消
   
-     ```SpringApplication application = newSpringApplication(Application.class);
+      SpringApplication application = newSpringApplication(Application.class);
       //取消spring的标志
       application.setBannerMode(Mode.OFF);
       application.run(args);
-     ```
+     
   
 ## 以下是我复制其他社区的网址
 
